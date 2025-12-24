@@ -5,8 +5,7 @@ Amaç, Java’da hata türlerini, hata yakalama mekanizmalarını ve doğru exce
 ---
 
 ## Örnek Projeler
-- **Mini hesap makinesi**
-- **Yurt dısı çıkıs programı**
+- **Kargo Programı**
 
 ---
 
